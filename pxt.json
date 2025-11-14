@@ -1,5 +1,6 @@
 {
     "name": "i have no idea",
+    "version": "0.1.0",
     "description": "",
     "dependencies": {
         "device": "*"
